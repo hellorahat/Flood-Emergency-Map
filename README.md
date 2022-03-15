@@ -1,5 +1,13 @@
 # Flood-Emergency-Map
 
+## Gathering Data
+
+Data was obtained through several sources. Some sources were unavailable and archives of the sources were used instead. Information from the sources and the archives were stored into a CSV file.
+
+## Creating the Visualization
+
+Using the data from the CSV, two choropleth maps were created via Plotly. One of the visualizations contain a choropleth for flood deaths in the U.S. And the other visualization contains a choropleth for flood occurrences in the U.S.
+
 ## Data Sources
 
 https://www.wpc.ncep.noaa.gov/tropical/rain/paul2000.html
