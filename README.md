@@ -1,4 +1,10 @@
+![CrossCompute Log](https://crosscompute.com/images/CrossCompute-LogoBrand-Horizontal-20200420.svg)
+
 # Flood-Emergency-Map
+
+## Add a gif or a couple of images of the visualization
+
+## Introduction -- Write a summary that answers the questions: what is this tool, how does it work,  
 
 ## Gathering Data
 
