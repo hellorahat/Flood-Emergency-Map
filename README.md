@@ -1,4 +1,10 @@
-# Flood-Emergency-Map
+![CrossCompute Log](https://crosscompute.com/images/CrossCompute-LogoBrand-Horizontal-20200420.svg)
+
+# Flood Emergency Map
+
+## Add a gif or a couple of images of the visualization
+
+## Introduction -- Write a summary that answers the questions: what is this tool, how does it work,  
 
 ## Gathering Data
 
@@ -8,6 +14,7 @@ Data was obtained through several sources. Some sources were unavailable and arc
 
 Using the data from the CSV, two choropleth maps were created via Plotly. One of the visualizations contain a choropleth for flood deaths in the U.S. And the other visualization contains a choropleth for flood occurrences in the U.S.
 
+## Add Your Bio, include your email, link to your linkedIn
 ## Data Sources
 
 - https://www.wpc.ncep.noaa.gov/tropical/rain/paul2000.html
