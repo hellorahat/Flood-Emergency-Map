@@ -3,6 +3,9 @@
 # Flood Emergency Map
 
 ## Add a gif or a couple of images of the visualization
+![image](https://user-images.githubusercontent.com/75760920/161049617-a11d3caf-36fa-4639-9e38-24ca9ac3d60a.png)
+![image](https://user-images.githubusercontent.com/75760920/161049707-6066250b-35a4-48f9-a2db-5e81a9b9a6ac.png)
+
 
 ## Introduction -- Write a summary that answers the questions: what is this tool, how does it work,  
 
