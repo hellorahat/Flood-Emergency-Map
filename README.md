@@ -18,7 +18,13 @@ Data was obtained through several sources. Some sources were unavailable and arc
 
 Using the data from the CSV, two choropleth maps were created via Plotly. One of the visualizations contain a choropleth for flood deaths in the U.S. And the other visualization contains a choropleth for flood occurrences in the U.S.
 
-## Add Your Bio, include your email, link to your linkedIn
+## Biography
+
+Rohan Sazad is a student at CUNY Queens College majoring in Computer Science. He has knowledge in C++ and Python.
+
+Email: rsazad813@gmail.com
+LinkedIn: https://www.linkedin.com/in/rohan-sazad-635293217/
+
 ## Data Sources
 
 - https://www.wpc.ncep.noaa.gov/tropical/rain/paul2000.html
