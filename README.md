@@ -6,9 +6,9 @@
 ![image](https://user-images.githubusercontent.com/75760920/161049707-6066250b-35a4-48f9-a2db-5e81a9b9a6ac.png)
 
 
-## Introduction -- Write a summary that answers the questions: what is this tool, how does it work,  
+## Introduction 
 
-
+This tool uses plotly to create choropleth maps displaying the amount of flood occurrences and deaths through the years 2000 - 2021 in the United States. By hovering over a specific state, the user can view the amount of occurrences/deaths as a number.
 
 ## Gathering Data
 
