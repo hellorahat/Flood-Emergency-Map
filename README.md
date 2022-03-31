@@ -22,6 +22,7 @@ Using the data from the CSV, two choropleth maps were created via Plotly. One of
 
 Rohan Sazad is a student at CUNY Queens College majoring in Computer Science. He has knowledge in C++ and Python.
 
+
 Email: rsazad813@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/rohan-sazad-635293217/
